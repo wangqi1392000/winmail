@@ -1,7 +1,14 @@
 ﻿#include <stdio.h>
-int main()
+int main(int argc, char* argv[])
 {
 	printf("Hello World!\n");
+
+    int count;
+    printf("The command line has %d arguments :\n", argc - 1);
+    for (count = 1; count < argc; ++count) {
+        printf("%d: %s\n", count, argv[count]);
+    }
+	return 0;
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
