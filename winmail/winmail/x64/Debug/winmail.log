@@ -1,2 +1,11 @@
 ﻿  winmail.cpp
+D:\develop\workspace\github\winmail\winmail\winmail\winmail.cpp(53,86): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\develop\workspace\github\winmail\winmail\winmail\winmail.cpp(55,86): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\develop\workspace\github\winmail\winmail\winmail\winmail.cpp(59,99): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\develop\workspace\github\winmail\winmail\winmail\winmail.cpp(61,97): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\develop\workspace\github\winmail\winmail\winmail\winmail.cpp(72,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\develop\workspace\github\winmail\winmail\winmail\winmail.cpp(87,39): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\develop\workspace\github\winmail\winmail\winmail\winmail.cpp(158,62): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\develop\workspace\github\winmail\winmail\winmail\winmail.cpp(303,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\develop\workspace\github\winmail\winmail\winmail\winmail.cpp(340,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
   winmail.vcxproj -> D:\develop\workspace\github\winmail\winmail\x64\Debug\winmail.exe
